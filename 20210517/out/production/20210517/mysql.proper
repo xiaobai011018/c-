@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+user=root
+password=bsc
+url=jdbc:mysql://localhost:3306/bsc_db03?rewriteBatchedStatements=true
